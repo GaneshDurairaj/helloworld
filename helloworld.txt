@@ -2,3 +2,4 @@ Test
 Line 2 added
 Line 3 added
 Line 4 added
+New branch created - Branch 1
